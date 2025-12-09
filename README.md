@@ -1,4 +1,4 @@
-# FAQChatBot — RAG-powered FAQ assistant 🤖💬
+# FAQChatBot — RAG-powered FAQ assistant
 
 A lightweight Flask app that indexes your FAQ documents with FAISS and answers questions using a Gemini LLM via Retrieval-Augmented Generation (RAG).
 
