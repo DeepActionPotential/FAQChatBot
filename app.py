@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import os
 from werkzeug.utils import secure_filename
 
+
 from core.FAQ_answer_manager import FAQAnswerManager
 from services.IO_manager import IOManager
 from services.faiss_manager import FaissVectorDatabase
